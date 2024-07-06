@@ -1,0 +1,52 @@
+[
+    {
+        "Id": "001",
+        "Cover": "https://i.ibb.co/p4FgxSF/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "Title": "The Enchanted Forest",
+        "Author": "Alice Green",
+        "Author_Img": "https://i.ibb.co/bBX8Qc9/download.jpg",
+        "Posted_Date": "2024-06-21",
+        "Reading_Time": 7,
+        "Hashtag": ["#Fantasy, #Adventure, #Magic"]
+    },
+    {
+        "Id": "002",
+        "Cover": "https://i.ibb.co/RSZxr0Q/download-13.jpg",
+        "Title": "Digital Revolution",
+        "Author": "John Smith",
+        "Author_Img": "https://i.ibb.co/bQzSRb9/images-5.jpg",
+        "Posted_Date": "2024-07-01",
+        "Reading_Time": 10,
+        "Hashtag": ["#Technology, #Innovation, #Future"]
+    },
+    {
+        "Id": "003",
+        "Cover": "https://i.ibb.co/6vqfr3S/dahlia-red-blossom-bloom-60597.webp",
+        "Title": "Culinary Wonders",
+        "Author": "Maria Lopez",
+        "Author_Img": "https://i.ibb.co/tCXH0QV/images-1.jpg",
+        "Posted_Date": "2024-06-28",
+        "Reading_Time": 5,
+        "Hashtag": ["#Food, #Recipes, #Cooking"]
+    },
+    {
+        "Id": "004",
+        "Cover": "https://i.ibb.co/gdCcXZf/download-7.jpg",
+        "Title": "Mysteries of the Deep",
+        "Author": "James Johnson",
+        "Author_Img": "https://i.ibb.co/KmVvd4q/images-9.jpg",
+        "Posted_Date": "2024-07-03",
+        "Reading_Time":7,
+        "Hashtag": ["#Ocean, #Science, #Exploration"]
+    },
+    {
+        "Id": "005",
+        "Cover": "https://i.ibb.co/QmhJK1V/images-4.jpg",
+        "Title": "Urban Legends",
+        "Author": "https://i.ibb.co/JqVqLMt/photo-1635377361665-60442f6cf799.jpg",
+        "Author_Img": "emily_davis.jpg",
+        "Posted_Date": "2024-07-05",
+        "Reading_Time": 6,
+        "Hashtag": ["#Myth, #Culture, #History"]
+    }
+]
